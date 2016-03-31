@@ -18,7 +18,7 @@ public class MidTerm {
         int year;
         int oldEnough;
         int i = 0;
-        while(i<3){
+        for(;;){
         
                 
         
